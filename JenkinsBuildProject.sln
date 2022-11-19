@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsBuildProject", "JenkinsBuildProject\JenkinsBuildProject.csproj", "{DDCCC036-F1C4-4737-A046-F4119C0E046F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCCC036-F1C4-4737-A046-F4119C0E046F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCCC036-F1C4-4737-A046-F4119C0E046F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCCC036-F1C4-4737-A046-F4119C0E046F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCCC036-F1C4-4737-A046-F4119C0E046F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B26C9A8-7DD9-4096-96C2-94B06A2ED16F}
+	EndGlobalSection
+EndGlobal
